@@ -85,4 +85,4 @@ The project follows an industry-standard Git workflow using feature branches and
 
 ### Merged Pull Request
 
-![Merged Pull Request](screenshots merged-pull-request.png)
+![Merged Pull Request](screenshots/merged-pull-request.png)

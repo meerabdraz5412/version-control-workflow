@@ -81,6 +81,8 @@ Merge to Main
 
 The project follows an industry-standard Git workflow using feature branches and pull requests.
 
-### Branch Merge History
+## Project Screenshots
 
-![Network Graph](screenshotsnetwork-graph.png)
+### Merged Pull Request
+
+![Merged Pull Request](screenshots merged-pull-request.png)

@@ -76,3 +76,11 @@ Code Review
     │
     ▼
 Merge to Main
+
+## Workflow Visualization
+
+The project follows an industry-standard Git workflow using feature branches and pull requests.
+
+### Branch Merge History
+
+![Network Graph](screenshotsnetwork-graph.png)

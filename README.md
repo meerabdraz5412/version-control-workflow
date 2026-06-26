@@ -246,7 +246,6 @@ git log --oneline --graph --all
 | **Task 01** | Version Control Workflow | Beginner | ✅ Completed |
 | **Task 02** | CI/CD Pipeline with GitHub Actions | Easy | ✅ Completed |
 | **Task 03** | Containerization Project | Intermediate | 🔄 In Progress |
-| **Task 04** | Complete DevOps Infrastructure | Advanced | ⏳ Upcoming |
 
 ---
 
